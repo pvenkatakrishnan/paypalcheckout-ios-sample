@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7E1076D93AF0723B48814B04CA3FFFA59F7B6834",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7E1076D93AF0723B48814B04CA3FFFA59F7B6834" : 9223372036854775807,
+    "84FD94908EDA8D4442E615F63C912B13A7DD0561" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B1F3DDBD-0443-48A3-A71F-DF98B7D9A524",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7E1076D93AF0723B48814B04CA3FFFA59F7B6834" : "sample-webview-ios\/",
+    "84FD94908EDA8D4442E615F63C912B13A7DD0561" : "sample-webview-ios\/paypal-xo-ios\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "webview-sample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "webview-sample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.paypal.com:nativexo\/sample-webview-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7E1076D93AF0723B48814B04CA3FFFA59F7B6834"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.paypal.com:nativexo\/paypal-xo-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "84FD94908EDA8D4442E615F63C912B13A7DD0561"
+    }
+  ]
+}
