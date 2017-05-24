@@ -7,5 +7,5 @@ target 'webview-sample' do
 
 
   # Pods for webview-sample
-  pod 'paypal-nativecheckout', :git => 'git@github.com:paypal/paypalcheckout-ios.git', :tag => '1.1.0'
+  pod 'paypal-nativecheckout', :git => 'git@github.com:paypal/paypalcheckout-ios.git', :tag => '1.2.0'
 end

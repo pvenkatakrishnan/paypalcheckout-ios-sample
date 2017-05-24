@@ -1,22 +1,22 @@
 PODS:
-  - paypal-nativecheckout (1.1.0)
+  - paypal-nativecheckout (1.2.0)
 
 DEPENDENCIES:
-  - paypal-nativecheckout (from `git@github.com:paypal/paypalcheckout-ios.git`, tag `1.1.0`)
+  - paypal-nativecheckout (from `git@github.com:paypal/paypalcheckout-ios.git`, tag `1.2.0`)
 
 EXTERNAL SOURCES:
   paypal-nativecheckout:
     :git: git@github.com:paypal/paypalcheckout-ios.git
-    :tag: 1.1.0
+    :tag: 1.2.0
 
 CHECKOUT OPTIONS:
   paypal-nativecheckout:
     :git: git@github.com:paypal/paypalcheckout-ios.git
-    :tag: 1.1.0
+    :tag: 1.2.0
 
 SPEC CHECKSUMS:
-  paypal-nativecheckout: d0d490ed22e287d60e0027ea137a9c30651d9dfd
+  paypal-nativecheckout: 57a9d5ed6c46c697fa01dfb11d90ae7fa71e447a
 
-PODFILE CHECKSUM: c5725e0a326b55440a049ebbc0424979d1805c5d
+PODFILE CHECKSUM: 6b5553db17097317b72c2a10fa6c56188870e7d7
 
-COCOAPODS: 1.0.1
+COCOAPODS: 1.2.1
