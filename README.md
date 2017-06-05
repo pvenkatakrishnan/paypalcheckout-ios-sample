@@ -13,7 +13,7 @@ This is a sample application that can be used for Demoing and Development of the
 You should now be able to run the project out of the box. The project may connect to the production server and pull
 down a production bundle. 
 
-# The Experiance
+# The Experience
 
 The experiance is driven by React-Native. The iOS SDK takes care of integrating with the merchant app (this sample), and 
 provides integration points for the React-Native bundle. 
